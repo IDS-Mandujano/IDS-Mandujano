@@ -60,7 +60,7 @@ Based in **Chiapas, Mexico**, I am a passionate developer who bridges the gap be
   <a href="mailto:iseduardomandujano1911@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jesusegm">
+  <a href="https://linkedin.com/in/jesusegm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

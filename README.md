@@ -48,7 +48,7 @@ Based in **Chiapas, Mexico**, I am a passionate developer who bridges the gap be
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IDS-Mandujano&show_icons=true&theme=radical&hide_border=true" alt="Jesus Eduardo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IDS-Mandujano&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jesus Eduardo's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDS-Mandujano&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 

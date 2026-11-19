@@ -11,7 +11,7 @@ Based in **Chiapas, Mexico**, I am a passionate developer who bridges the gap be
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,kotlin,flutter,figma" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Based in **Chiapas, Mexico**, I am a passionate developer who bridges the gap be
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,codeigniter,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,ts,js,nodejs,go,postman" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Based in **Chiapas, Mexico**, I am a passionate developer who bridges the gap be
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,aws,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,aws,vercel,gcp" />
   </a>
 </p>
 
